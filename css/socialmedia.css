@@ -1,0 +1,41 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-family-text);
+    border-top: 1px solid var(--color-dark-braun);
+    margin-top: 90px; 
+}
+
+.contact h2 {
+    color: var(--color-light-braun);
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.contact p {
+    color: var(--color-dark-braun);
+    font-size: var(--font-size-p);
+}
+
+.contact i {
+    font-size: 1.2em; 
+    color: #4267B2; 
+    margin-right: 8px; 
+}
+
+.contact .fa-telegram {
+    color: #0088cc; 
+}
+
+.contact .fa-twitter {
+    color: #1DA1F2; 
+}
+
+.contact p span {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+

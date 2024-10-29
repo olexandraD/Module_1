@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&family=Bona+Nova+SC:wght@400;700&display=swap);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css);
+
+:root {
+    --color-light-braun: rgba(126, 88, 17, 1);
+    --color-light-green: rgba(10, 72, 18, 0.55);
+    --color-dark-braun: rgb(61, 44, 17);
+
+    --font-family-h: "Bona Nova SC";
+    --font-family-logo: "Rubik Wet Paint";
+    --font-family-text: "Montserrat";
+    --font-size-h1: 72px;
+    --font-size-h2: 32px;
+    --font-size-menu: 32px;
+    --font-size-p: 20px;
+
+    --width: 1210px;
+    --width-menu: 309px;
+    --width-main: 931px;
+    --height-header: 164px;
+    --height-footer: 22px;
+    --img: 320px;
+
+    --padding-left: 10px;
+    --padding-text: 30px;
+}

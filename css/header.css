@@ -1,0 +1,43 @@
+.header {
+    text-align: center;
+    padding: 40px;
+    font-family: var(--font-family-logo);
+}
+
+.logo {
+    margin-bottom: 110px; 
+}
+
+.header i {
+    font-size: 40px; 
+    color: #eee424; 
+    margin-right: 8px;
+    text-shadow: 
+    -1px -1px 0 var(--color-dark-braun),  
+     2px -1px 0 var(--color-dark-braun),
+    -1px  2px 0 var(--color-dark-braun),
+     2px  2px 0 var(--color-dark-braun);
+     margin-bottom: 20px;
+}
+
+.header .fa-crown {
+    color: #eee424; 
+}
+
+.header_h1 {
+    font-size: var(--font-size-h1);
+    color: var(--color-light-braun);
+    margin: 0;
+    text-shadow: 
+    -1px -1px 0 var(--color-dark-braun),  
+     2px -1px 0 var(--color-dark-braun),
+    -1px  2px 0 var(--color-dark-braun),
+     2px  2px 0 var(--color-dark-braun);
+}
+
+.header_img {
+    width: var(--img);
+    height: var(--img);
+    background: url(../img/BigGoblin.jpg) no-repeat center/cover;
+    margin: 0 auto;
+}
